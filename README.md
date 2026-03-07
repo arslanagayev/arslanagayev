@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi 👋 I'm Arslan Agayev
 
-<!--
-**arslanagayev/arslanagayev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Self-taught Software Developer  
+🌍 Goal: Work as a Software Developer in the USA  
+🚀 Passionate about learning new technologies and building real projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+
+Languages  
+- C  
+- C++  
+- C#  
+- Java  
+- SQL  
+
+Web Development  
+- HTML  
+- CSS  
+
+Mobile Development  
+- Android Studio  
+
+Hardware  
+- Arduino  
+
+---
+
+## 🚀 Current Goals
+
+- Build strong projects for my GitHub portfolio  
+- Improve backend and mobile development skills  
+- Contribute to open-source projects  
+- Prepare for international software jobs  
+
+---
+
+## 📊 GitHub Stats
+
+(Stats will appear here as I build more projects)
+
+---
+
+## 📫 Connect with me
+
+Future LinkedIn profile coming soon
