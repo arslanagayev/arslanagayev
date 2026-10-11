@@ -3,6 +3,7 @@
 </p>
 
 <p align="center">
+  <a href="https://arslanagayev.github.io/"><img src="https://img.shields.io/badge/Portfolio-arslanagayev.github.io-ff4103?style=flat-square&logo=gnubash&logoColor=white" alt="Portfolio: arslanagayev.github.io"></a>
   <a href="https://www.instagram.com/arslanagayev.dev/"><img src="https://img.shields.io/badge/Instagram-@arslanagayev.dev-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="mailto:arslanagayew39@gmail.com"><img src="https://img.shields.io/badge/Email-arslanagayew39@gmail.com-0b0f14?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://arslanagayev.github.io/vyra-energy/"><img src="https://img.shields.io/badge/Live%20demo-VYRA%20Energy-a855f7?style=flat-square&logo=github&logoColor=white" alt="VYRA Energy live demo"></a>
@@ -13,9 +14,9 @@
 
 I'm a third-year **Computer Science** student at **Hangzhou Normal University** who likes building complete systems, from sensor firmware all the way to the screen people use.
 
+- 🖥️ **My portfolio is a terminal:** type `help`, `projects` or `contact` at [arslanagayev.github.io](https://arslanagayev.github.io/)
 - 🥫 **Latest:** [VYRA Energy](https://github.com/arslanagayev/vyra-energy), a scroll-driven 3D product website: procedural cans built from code with three.js, GSAP ScrollTrigger, 163 tests ([live demo](https://arslanagayev.github.io/vyra-energy/))
 - 🎬 **Video series:** I explain how things actually work (passwords, websites, card payments, programming languages) in short videos rendered by my own [explainer engine](https://github.com/arslanagayev/explainer-engine)
-- 🏭 **Building now:** an industrial IoT system: ESP32 sensor nodes in C++ → MQTT → a Python edge gateway → a live React dashboard with OEE and alarms
 - 🎯 **Interests:** embedded systems, backend services (.NET, Python) and interactive web interfaces
 - 💼 **Open to** software engineering internships for 2027
 - 📱 I share how my projects are built on Instagram: [@arslanagayev.dev](https://www.instagram.com/arslanagayev.dev/)
